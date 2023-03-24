@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+.container {
+    text-align: center;
+ }
+ body {
+     background-image: linear-gradient(to right, rgba(192, 211, 255, 0), rgb(78, 138, 184) );
+ }
+ #img {
+     text-align: center; 
+    
+ }
+ body input {
+     color: darkgray;
+    
+ }
